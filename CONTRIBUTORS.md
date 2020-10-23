@@ -1,3 +1,10 @@
+#### Name: kumar satyam
+ - Place: Jaipur, India
+ - Bio: 3rd year cse student
+ - GitHub: https://github.com/satyam0500
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
